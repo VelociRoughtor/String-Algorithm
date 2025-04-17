@@ -22,7 +22,22 @@
 11. pop_back()
 
 
+
 2. Conversions
 --------------
 1. String to number
 2. Number to string
+
+
+
+3. Next Permutation
+-------------------
+It will provide all permutations of any given string.
+N.B: Array must be sorted!!!
+
+If the length of the string is s, then the number of permutations = n!
+
+
+
+4. Sliding Window
+-----------------
