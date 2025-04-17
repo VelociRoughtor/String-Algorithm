@@ -38,6 +38,13 @@ N.B: Array must be sorted!!!
 If the length of the string is s, then the number of permutations = n!
 
 
+5. Hashing
+----------
+String will be converted to integer using hashing.
+String comparison becomes O(1) while traditional matching techniques takes O(n) time complexity.
 
-4. Sliding Window
------------------
+Hash (s) = (s[0] * p^(n - 1) + s[1] * p^(n - 2) + ..... + s[n - 1] * A^0) mod B
+where, 
+        s[0], s[1],...., s[n] are characters of the string
+        A, B are chosen constants which are usually prime numbers.
+
