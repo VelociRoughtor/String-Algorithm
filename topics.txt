@@ -1,5 +1,5 @@
 1. Basic Function
-2. String to number | Number to String
+2. Conversions
 3. Next Permutation
 4. Sliding Window
 5. Hashing
@@ -20,3 +20,9 @@
 9. erase()
 10. push_back()
 11. pop_back()
+
+
+2. Conversions
+--------------
+1. String to number
+2. Number to string
