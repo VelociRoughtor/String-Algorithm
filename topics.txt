@@ -1,0 +1,22 @@
+1. Basic Function
+2. String to number | Number to String
+3. Next Permutation
+4. Sliding Window
+5. Hashing
+6. Substring Hashing
+7. KMP Algorithm
+
+
+1. Basic Function
+-----------------
+1. size()
+2. sort()
+3. reverse()
+4. substr()
+5. getline()
+6. toupper()
+7. tolower()
+8. istringstream()
+9. erase()
+10. push_back()
+11. pop_back()
